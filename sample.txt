@@ -1,0 +1,1 @@
+This is only the sample for practicing the git process
